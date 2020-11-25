@@ -59,20 +59,3 @@ for ref in rows:
 
 dataframe = pd.DataFrame(dataFrameConstructor)
 print(dataframe)
-
-
-'''
-
-Stats Updated  
-<'div', class_="x-alert x-alert-muted x-alert-block">
-
-soup.find('tbody') #table 
-
-soup.find_all('tr',class_="row-2 even")  #role="row"
-	.find('td',class_="column-1")     
-	.find('td',class_="column-2")
-	.find('td',class_="column-3")
-	.find('td',class_="column-4")
-	.find('td',class_="column-5")
-	
-'''
