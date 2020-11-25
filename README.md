@@ -1,2 +1,2 @@
-# NBA_Ref_Data
+# NBA Ref Data (Regular Season and Playoff)
 Scripts to retrieve official NBA Referee Data
